@@ -30,3 +30,5 @@
 	Script > chown -R vincent:staff .
 #15 - Write a script that changes the owner and the group owner of "hello" to "vincenet" and "staff" respectively. The file "hello" is in the working directory. The file "hello" is a symbolic link.
 	Script > chown -h vincent:staff _hello
+#16 - Write a script that changes the owner of the file "hello" to "betty" only if is is owned by the user "guillaume". The file "hello" will be in the working directory.
+        Script > chown --from=guillaume betty hello
