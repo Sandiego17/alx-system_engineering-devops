@@ -18,4 +18,5 @@
 	Script > chmod 007 hello
 #9 - Write a script that sets the mode of the file "hello" to this: -rwxr-x-wx 1 julien julien 23 Sep 2014;25 hello.
 	Script > chmod 753 hello
-
+#10 - Write a script that sets the mode of the file "hello" the same as "olleh's" mode.
+	Scripte > chmod --reference=olleh hello
