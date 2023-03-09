@@ -26,3 +26,5 @@
 	Script > mkdir -m 751 my_dir
 #13 - Write a script that changes the group owner to "school" for the file "hello".
 	Script > chgrp school hello
+#14 - Write a script that changes the owner to "vincent" and the group owner to staff for all the files and directories in the woking directory.
+	Script > chown -R vincent:staff .
