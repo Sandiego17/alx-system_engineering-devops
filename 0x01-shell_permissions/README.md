@@ -16,3 +16,6 @@
 	Script > chmod ugo+x hello
 #8 - Write a script that sets the permission to the file "hello" as follow: owner(no permissions at all), group(no permissions at all), and other users(all the permissions). The file "hello" will be in the working directory. Use of commas is not allowed for this script.
 	Script > chmod 007 hello
+#9 - Write a script that sets the mode of the file "hello" to this: -rwxr-x-wx 1 julien julien 23 Sep 2014;25 hello.
+	Script > chmod 753 hello
+
