@@ -8,3 +8,6 @@
 	Script > chown betty hello
 #4 - Write a script that creates an empty file called "hello"
 	Script > touch hello
+#5 - Write a script that adds execute permission to the owner of the file "hello"
+	Script > chmod 744 hello
+
