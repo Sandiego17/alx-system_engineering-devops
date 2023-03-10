@@ -24,3 +24,6 @@
 
 #### #08 - Delete the file [betty].
 `Script > rm /tmp/my_first_directory/betty`
+
+#### #09 - Delete the directory [my_first_directory](#) that is in the [/tmp/](#).
+`Script > rmdir /tmp/my_first_directory`
