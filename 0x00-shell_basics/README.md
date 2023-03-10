@@ -22,7 +22,7 @@
 #### #07 - Move the file [betty]() from [/tmp/]() to [/tmp/my_first_directory]().
 `Script > mv /tmp/betty /tmp/my_first_directory`
 
-#### #08 - Delete the file [betty].
+#### #08 - Delete the file [betty]().
 `Script > rm /tmp/my_first_directory/betty`
 
 #### #09 - Delete the directory [my_first_directory]() that is in the [/tmp/]().
@@ -33,3 +33,6 @@
 
 #### #11 - Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the [/boot]() directory (in this order), in long format.
 `Script > ls -al . .. /boot`
+
+#### #12 - Write a script that prints the type of the file named [iamafile](). The file [iamafile]() will be in the [/tmp]() directory when we will run your script.
+`Script > file /tmp/iamafile`
