@@ -16,8 +16,11 @@
 #### #05 - Display current directory contents.
 `Script > ls -aln`
 
-#### #06 - Create a script that creates a directory named "my_first_directory" in the "/tmp/" directory.
+#### #06 - Create a script that creates a directory named [my_first_directory] in the [/tmp/] directory.
 `Script > mkdir /tmp/my_first_directory`
 
-#### #07 - Move the file "betty" from "/tmp/" to "/tmp/my_first_directory".
+#### #07 - Move the file [betty] from [/tmp/] to [/tmp/my_first_directory].
 `Script > mv /tmp/betty /tmp/my_first_directory`
+
+#### #08 - Delete the file [betty].
+`Script > rm /tmp/my_first_directory/betty`
