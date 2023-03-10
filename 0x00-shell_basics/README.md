@@ -19,7 +19,7 @@
 #### #06 - Create a script that creates a directory named [my_first_directory] in the [/tmp/] directory.
 `Script > mkdir /tmp/my_first_directory`
 
-#### #07 - Move the file [betty] from [/tmp/] to [/tmp/my_first_directory].
+#### #07 - Move the file [betty]() from [/tmp/]() to [/tmp/my_first_directory]().
 `Script > mv /tmp/betty /tmp/my_first_directory`
 
 #### #08 - Delete the file [betty].
@@ -27,3 +27,6 @@
 
 #### #09 - Delete the directory [my_first_directory](#) that is in the [/tmp/](#).
 `Script > rmdir /tmp/my_first_directory`
+
+#### #10 - Write a script that changes the working directory to the previous one.
+`Script > cd -`
