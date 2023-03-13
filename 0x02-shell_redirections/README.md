@@ -15,3 +15,6 @@
 
 #### #05 - Display the first 10 lines of [/etc/passwd]().
 `Script > head`
+
+#### #06 - Write a script that displays the third line of the file [iacta](). The file [iacta]() will be in the working directory. You’re not allowed to use [sed]().
+`Script > head`
