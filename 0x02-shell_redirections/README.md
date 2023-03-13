@@ -9,3 +9,6 @@
 
 #### #03 - Display the content of [/etc/passwd]() and [/etc/hosts]().
 `Script > cat`
+
+#### #04 - Display the last 10 lines of [/etc/passwd]().
+`Script > tail`
