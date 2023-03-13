@@ -12,3 +12,6 @@
 
 #### #04 - Display the last 10 lines of [/etc/passwd]().
 `Script > tail`
+
+#### #05 - Display the first 10 lines of [/etc/passwd]().
+`Script > head`
