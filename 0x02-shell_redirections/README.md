@@ -6,3 +6,6 @@
 
 #### #02 - Display the content of the [/etc/passwd]() file.
 `Script > cat`
+
+#### #03 - Display the content of [/etc/passwd]() and [/etc/hosts]().
+`Script > cat`
