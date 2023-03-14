@@ -60,3 +60,6 @@
 
 #### #20 - Create a script that removes all letters[c]() and[C]() from input.
 `Script > tr`
+
+#### #21 - Write a script that reverse its input.
+`Script > rev`
