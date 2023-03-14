@@ -63,3 +63,6 @@
 
 #### #21 - Write a script that reverse its input.
 `Script > rev`
+
+#### #22 - Write a script that displays all users and their home directories, sorted by users. Based on the the [/etc/passwd]() file.
+`Script > cut`
